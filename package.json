@@ -18,6 +18,7 @@
   "homepage": "https://github.com/viniciusflores/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "express": "^4.17.1",
     "gm": "^1.23.1",
     "googleapis": "^45.0.0",
     "image-downloader": "^3.5.0",
