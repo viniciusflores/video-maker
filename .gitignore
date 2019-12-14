@@ -109,3 +109,4 @@ credentials/*.json
 #contents
 content.json
 content/*.png
+content/*.jpg
